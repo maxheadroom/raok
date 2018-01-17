@@ -19,8 +19,8 @@ disqusShortname = ""
     name = "GitHub"
     url = "https://github.com/maxheadroom/raok"
 [[menu.main]]
-    name = "Twitter"
-    url = ""
+    name = "Ideas"
+    url = "/ideas/"
 
 [params]
     description = "random acts of kindness"
