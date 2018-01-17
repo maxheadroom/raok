@@ -7,10 +7,12 @@ draft: false
 
 ## You should
 * do someone a favor which makes them happy
-* leave a note just with the hashtag #roak
+* leave a note just with the hashtag #raok
 * maybe add a link to this website
 
 ## You should not
-1. expect, ask for, demand, encourage, solicit any reward or benefit from your #roak
+1. expect, ask for, demand, encourage, solicit any reward or benefit from your #raok
 1. talk about your random acts of kindness
-1. leave a anything that would identify and assiciate you with your #roak
+1. leave anything that would identify and associate you with your #raok
+1. publicise stats about your #raoks
+1. reveal the identity of other #raok givers  
