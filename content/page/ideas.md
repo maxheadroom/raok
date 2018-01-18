@@ -9,3 +9,6 @@ Just bring a small box of donuts and give it to someone you'd like to be kind to
 
 ## Flowers
 Buy some flowers and place them on your colleagues desks.
+
+## Coffee
+Every morning you see the volunteer parents guarding the kids across the street in front of the school. How about bringing them a coffee?
