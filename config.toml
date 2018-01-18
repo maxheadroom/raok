@@ -21,7 +21,9 @@ disqusShortname = ""
 [[menu.main]]
     name = "Ideas"
     url = "/ideas/"
-
+[[menu.main]]
+    name = "Resources"
+    url = "/resources/"
 [params]
     description = "random acts of kindness"
 
