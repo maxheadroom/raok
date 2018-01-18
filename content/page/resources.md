@@ -6,5 +6,7 @@ draft: false
 A collection of resources you can use to help with your #raoks
 
 ## Snippets
+![Simple Snippet](/raok-hashtag-simple.jpg)
 
+![Simple QR Code](/raok-qrcode-simple.jpg)
 ## T-Shirt
