@@ -9,4 +9,6 @@ A collection of resources you can use to help with your #raoks
 ![Simple Snippet](/raok-hashtag-simple.jpg)
 
 ![Simple QR Code](/raok-qrcode-simple.jpg)
+
+![PDF](/raok-snippets.pdf)
 ## T-Shirt
