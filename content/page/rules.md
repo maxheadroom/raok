@@ -3,7 +3,7 @@ title: "Rules"
 date: 2018-01-15T21:26:34+01:00
 draft: false
 ---
-# These are the rules of random acts of kindness
+These are the rules of random acts of kindness
 
 ## You should
 * do someone a favor which makes them happy
